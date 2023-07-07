@@ -13,6 +13,6 @@ Azucena Faus, Jacqueline Urenda, and Saba Alemayehu
 * Visual Studio
 ## Project Description and Objectives
 ## Data Sources
-Airlines Database: https://relational.fit.cvut.cz/dataset/Airline
-US Weather: https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
+* Airlines Database: https://relational.fit.cvut.cz/dataset/Airline
+* US Weather: https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
 ## References
