@@ -1,7 +1,7 @@
 # ADS 507_Final Project 
 # Airport Weather Cancellations ETL Pipeline
 ## Contributors
-Azucena Faus, Jacqueline Urenda and Saba Alemayehu
+Azucena Faus, Jacqueline Urenda, and Saba Alemayehu
 ## Methods  
 * EDA
 * Data visualization
